@@ -1,8 +1,8 @@
 # 一键生成随机物品 
 ## 由 天源互联(也就是我) 改进，命令生成部分由 明灯owo(bilibili)开发 
 ### 使用教程： 
-1.将本项目下载到本地 \n
+1.将本项目下载到本地 <br>
 2.进入项目目录 <br>
-3.运行`python3 main.py` 或 `python main.py` 来运行这个项目 
-如果运行失败请检查您的python版本是否为3.X 
+3.运行`python3 main.py` 或 `python main.py` 来运行这个项目 <br>
+如果运行失败请检查您的python版本是否为3.X <br>
 目前正在开发c++版
